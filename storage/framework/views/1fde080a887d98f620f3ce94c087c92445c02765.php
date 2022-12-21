@@ -1,0 +1,2 @@
+<?php echo $__env->make('meta::admin.meta_fields', ['entity' => $ebook], \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+   <?php /**PATH C:\xampp\htdocs\Modules/Ebook/Resources/views/admin/ebooks/tabs/seo.blade.php ENDPATH**/ ?>
