@@ -1,3 +1,1 @@
-Madam onek koshbte code korsi pass korai diyen retake dibo na 
-
-zzzzzzzz
+Here, I have used laravel for my project in MVC format. 
